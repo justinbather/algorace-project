@@ -1,0 +1,15 @@
+[submodule "algorace-user-service"]
+	path = algorace-user-service
+	url = https://github.com/justinbather/algorace-user-service.git
+[submodule "algorace-compile-manager"]
+	path = algorace-compile-manager
+	url = https://github.com/justinbather/algorace-compile-manager.git
+[submodule "algorace-frontend"]
+	path = algorace-frontend
+	url = https://github.com/justinbather/algorace-frontend.git
+[submodule "algorace-socket"]
+	path = algorace-socket
+	url = https://github.com/justinbather/algorace-socket.git
+[submodule "remote-compiler"]
+	path = remote-compiler
+	url = https://github.com/justinbather/remote-compiler.git
