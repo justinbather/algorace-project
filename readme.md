@@ -5,6 +5,8 @@
 AlgoRace - A multiplayer data structure and algorithm problem solving platform.
 Link to [site](https://algorace-frontend.vercel.app)
 
+Note: The submodules in this repo are not always pointing the each repos latest commit. This repo is mostly serving as a directory to the related repos since there are so many.
+
 ### Problem
 
 Leetcode is good but after a while it starts to get monotonous not being able to collaborate or do it alongside friends. AlgoRace lets users
