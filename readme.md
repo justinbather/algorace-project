@@ -3,7 +3,7 @@
 ## Overview
 
 AlgoRace - A multiplayer data structure and algorithm problem solving platform.
-Link to [site](algorace-frontend.vercel.app)
+Link to [site](https://algorace-frontend.vercel.app)
 
 ### Problem
 
